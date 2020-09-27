@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-09-27T17:29:44.041+10:00
+  lastUpdatedAtString: 2020-09-27T17:39:59.357+10:00
   initializedAtString: 2020-09-27T17:27:29.523+10:00
   currentGitRemote:
     name: origin
@@ -25,13 +25,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: feature/david/wip
-    tracking: 
+    tracking: origin/feature/david/wip
   currentConfigBranch:
     name: feature/david/wip
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/davmf/stick_man.git
+    trackingBranch: feature/david/wip
   currentConfigRemote:
     name: origin
     url: https://github.com/davmf/stick_man.git

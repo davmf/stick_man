@@ -13,30 +13,30 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-09-27T17:29:14.405+10:00
+  lastUpdatedAtString: 2020-09-27T17:40:51.051+10:00
   initializedAtString: 2020-09-27T17:27:30.497+10:00
   entries:
-  - path: Library\ArtifactDB
-    fullPath: C:\Users\david\Unity\StickMan\Library\ArtifactDB
-    projectPath: Library\ArtifactDB
+  - path: Assets\stick_man.png
+    fullPath: C:\Users\david\Unity\StickMan\Assets\stick_man.png
+    projectPath: Assets\stick_man.png
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Artifacts\ed\edbb0c6a38e277c2850c025239460922
-    fullPath: C:\Users\david\Unity\StickMan\Library\Artifacts\ed\edbb0c6a38e277c2850c025239460922
-    projectPath: Library\Artifacts\ed\edbb0c6a38e277c2850c025239460922
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\stick_man.png.meta
+    fullPath: C:\Users\david\Unity\StickMan\Assets\stick_man.png.meta
+    projectPath: Assets\stick_man.png.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ff\fffa9744b3c8ed2ded17e1f5804f2b9a
-    fullPath: C:\Users\david\Unity\StickMan\Library\Artifacts\ff\fffa9744b3c8ed2ded17e1f5804f2b9a
-    projectPath: Library\Artifacts\ff\fffa9744b3c8ed2ded17e1f5804f2b9a
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\65\65182c48cacaa60770764b83a1d58a37
+    fullPath: C:\Users\david\Unity\StickMan\Library\Artifacts\65\65182c48cacaa60770764b83a1d58a37
+    projectPath: Library\Artifacts\65\65182c48cacaa60770764b83a1d58a37
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\EditorInstance.json
-    fullPath: C:\Users\david\Unity\StickMan\Library\EditorInstance.json
-    projectPath: Library\EditorInstance.json
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d5\d5dbc6493ce22f3fa63b3cb55cd0f69a
+    fullPath: C:\Users\david\Unity\StickMan\Library\Artifacts\d5\d5dbc6493ce22f3fa63b3cb55cd0f69a
+    projectPath: Library\Artifacts\d5\d5dbc6493ce22f3fa63b3cb55cd0f69a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -79,12 +79,6 @@ MonoBehaviour:
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\david\Unity\StickMan\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\SceneVisibilityState.asset
-    fullPath: C:\Users\david\Unity\StickMan\Library\SceneVisibilityState.asset
-    projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
