@@ -13,10 +13,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-09-27T17:08:11.071+10:00
-  initializedAtString: 2020-09-27T17:06:28.043+10:00
-  localBranches: []
-  remoteBranches: []
+  lastUpdatedAtString: 2020-09-27T17:49:57.259+10:00
+  initializedAtString: 2020-09-27T17:24:38.830+10:00
+  localBranches:
+  - name: master
+    tracking: origin/master
+  - name: feature/curtis/wip
+    tracking: 
+  remoteBranches:
+  - name: origin/HEAD
+    tracking: '[None]'
   remotes:
   - name: origin
     url: https://github.com/davmf/stick_man.git
@@ -26,12 +32,33 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - master
+    - feature/curtis/wip
+    values:
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/davmf/stick_man.git
+      trackingBranch: master
+    - name: feature/curtis/wip
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - HEAD
+    subKeyValues:
+    - Values:
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/davmf/stick_man.git
+        trackingBranch: 
   configRemotes:
     keys:
     - origin
